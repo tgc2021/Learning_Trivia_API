@@ -1,0 +1,11 @@
+D:\Learning_Trivia_API\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+D:\Learning_Trivia_API\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\Learning_Trivia_API\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+D:\Learning_Trivia_API\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll

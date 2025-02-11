@@ -1,0 +1,15 @@
+D:\Learning_Trivia_API\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+D:\Learning_Trivia_API\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+D:\Learning_Trivia_API\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+D:\Learning_Trivia_API\Business_Logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\Learning_Trivia_API\Business_Logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CopyComplete
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+D:\Learning_Trivia_API\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
